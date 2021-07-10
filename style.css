@@ -611,10 +611,11 @@ a{
 .footer2 i {
 	height: 3rem;
 	width: 3rem;
-	border: .1rem solid;
+	border: .1rem solid aqua;
 	text-align: center;
 	line-height: 3rem;
 	font-size: 1.8rem;
+	border-radius:.3rem
     position: relative;
     bottom: 1rem;
 }
