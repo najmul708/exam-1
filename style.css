@@ -160,10 +160,10 @@ a{
     color: black;
 }
 .midle-section ul li:hover > a {
-    color: #2e88ae;
+    color: #16a6df;
 }
 .asdd{
-    color: #2e88ae !important;
+    color: #16a6df !important;
 }
 .midle-section ul li a i{
     font-size: 1.3rem;
@@ -436,8 +436,9 @@ a{
 }
 .ri-about1 h2 {
 	text-align: center;
-	background: #21a7d0;
+	background: #16a6df;
 	padding: 1.5rem;
+	color:#fff;
 }
 .ri-about-1 {
 	float: left;
@@ -465,7 +466,7 @@ a{
 /* end about section */
 
 .catt{
-    background: #cdd0d1;
+    background: #f3f8f9;
     padding: 4rem 0;
 }
 .top-categoury{
@@ -477,7 +478,7 @@ a{
     width: 75%;
 }
 .top-categoury .top-left h3 {
-	color: #3290b7;
+	color: #21a7d0;
 	font-size: 1.6rem;
 }
 .top-categoury .top-left h1{
@@ -512,7 +513,7 @@ a{
 	width: 27.5%;
 	background: #fdfafa;
 	padding: 2rem;
-    border-radius: .5rem;
+    border: 1px solid gainsboro;
     transition: .5s;
     margin-bottom: 2rem;
     margin-right: 1.5rem;
@@ -555,6 +556,10 @@ a{
 }
 .aaa{
     padding-top: 5rem;
+}
+.bgbgb {
+	background: #f3f8f9;
+	height: 58rem;
 }
 
 .courses-section {
@@ -657,7 +662,7 @@ a{
 .left-question {
 	float: left;
 	width: 44%;
-	background: #ddeef1;
+	background: #f9f8f8;
 	padding: 3rem;
 }
 .right-question{
@@ -866,6 +871,7 @@ a{
     background: #e4f3f7;
     padding: 6rem 4rem;
     position: relative;
+	border-radius: .3rem;
 }
 .testi-content p{
     font-size: 1.8rem;
@@ -885,9 +891,10 @@ a{
 	left: 0;
 	right: 0;
 	background: transparent;
-	height: 7rem;
-	width: 7rem;
 	margin: auto;
+}
+.testi-img img {
+	max-width: 100%;
 	border-radius: 50%;
 }
 
